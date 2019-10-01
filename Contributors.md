@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [OfficialOzioma] (https://github.com/OfficialOzioma)
+- [Eduard Climov] (https://github.com/eclimov)
 - [Matt Lambert] (https://github.com/mtlambert)
 - [Archie Lewis] (https://github.com/acl76)
 - [rino23] (https://github.com/rino23)
